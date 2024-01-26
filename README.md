@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=draksham&label=Profile%20views&color=0e75b6&style=flat" alt="draksham" /> </p>
 
-- 🔭 I’m currently doing **Webdevelopment**
+- 🔭 I’m a **Fullstack Developer**
 
-- 🌱 I’m currently learning on **MachineLearning**
+- 🌱 I’m currently doing  **Deep learning**
 
 - 💬 Ask me about **Webdevelopment and comepetetive coding**
 
