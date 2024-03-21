@@ -5,7 +5,7 @@
 
 - 🔭 I’m a **Fullstack Developer**
 
-- 🌱 I’m currently doing  **Deep learning and DSA**
+- 🌱 I’m currently doing  **open cv and DSA**
 
 - 💬 Ask me about **Webdevelopment and comepetetive coding**
 
