@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tharun Draksham</h1>
-<img align="center" alt="coding" width="400" src="https://img.freepik.com/free-vector/cute-man-working-laptop-with-coffee-cartoon-vector-icon-illustration-people-technology-icon-concept-isolated-premium-vector-flat-cartoon-style_138676-3869.jpg?size=338&ext=jpg&ga=GA1.1.553209589.1713571200&semt=ais">
+<img align="right" alt="coding" width="400" src="https://img.freepik.com/free-vector/cute-man-working-laptop-with-coffee-cartoon-vector-icon-illustration-people-technology-icon-concept-isolated-premium-vector-flat-cartoon-style_138676-3869.jpg?size=338&ext=jpg&ga=GA1.1.553209589.1713571200&semt=ais">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=draksham&label=Profile%20views&color=0e75b6&style=flat" alt="draksham" /> </p>
 
